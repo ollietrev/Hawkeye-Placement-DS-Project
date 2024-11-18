@@ -4,3 +4,7 @@ Data science project using data from a cricket match, as part of Hawkeye's recru
 I would like to thank you, Hawkeye, for the opportunity to complete this project as part of your recruitment process - regardless of the outcome. I am an applied mathematician by training and relatively new to data science so I hope you will also consider the other skills that I can bring to the team. I am a passionate sports fan, numerically proficient and academically successful - looking to bring my enthusiasm and skills to your team due to our shared interests! 
 
 Contact me at your convenience.
+
+GloucesterDSProj.ipynb is the **main notebook**.
+everygame.ipynb is the extension notebook on how i would approach concatenating foe every game.
+The /*.json files are a subset of the data files for this project, the one used for the notebook is 947185.json
