@@ -5,6 +5,6 @@ I would like to thank you, Hawkeye, for the opportunity to complete this project
 
 Contact me at your convenience.
 
-GloucesterDSProj.ipynb is the **main notebook**.
-everygame.ipynb is the extension notebook on how i would approach concatenating foe every game.
+GloucesterDSProj.ipynb is the **main notebook**.\
+everygame.ipynb is the extension notebook on how i would approach concatenating foe every game.\
 The /*.json files are a subset of the data files for this project, the one used for the notebook is 947185.json
